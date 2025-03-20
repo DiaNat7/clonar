@@ -19,7 +19,7 @@ class perro():
 #dog.comer()
 
 perro_1 = perro("Pingo", 8, "Labrador", "Negro")
-perro_2 =perro("Destructor de asteroides", 6, "Chihuahua", "Café")
+perro_2 =perro("Beyli", 6, "Chihuahua", "Café")
 
 perro_1.comer()
 perro_2.dormir()
