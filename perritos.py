@@ -13,7 +13,7 @@ class perro():
         print(self.nombre, "está comiendo")
 
     def dormir(self):
-        print(self.nombre, "está durmiendo")
+        print(self.nombre, "está jugando")
 
 #dog = perro()
 #dog.comer()
